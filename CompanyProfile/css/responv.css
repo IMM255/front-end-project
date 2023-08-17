@@ -1,0 +1,128 @@
+@media screen and (max-width: 922px) {
+    .input-cari .button-secondary{
+        width: 120px;   
+        font-size: 14px;
+    }
+
+    .input-cari .button-primary{
+        font-size: 25px;
+    }
+
+    .button-fitur{
+        width: 100%;
+    }
+
+    #contact h3{
+        font-size: 20px;
+        width: 100%;
+    }
+
+    .card-contact{
+        width: 100%;
+       
+        padding : 52px 48px;
+        margin-top: 20px;
+    
+    }
+    
+    .card-contact h2{
+        font-size: 32px;
+        line-height: 40px;
+        margin-bottom: 21px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .hero-tagline h1{
+        line-height: 52px;
+    }
+
+    .img-hero {
+        width: 75%;
+        height: auto;
+    }
+
+    h2{
+        font-size: 34px;
+    }
+
+    .sub-title{
+        font-size: 16px;
+    }
+
+    .card-layanan{
+        margin: 15px 0;
+    }
+
+    #search h2{
+        font-size: 40px;
+        line-height: 35px;
+    }
+
+    #search p{
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    
+    .input-cari .button-secondary{
+    width: 50%;
+    height: 58px;
+    border-radius: 0;
+    }
+
+    
+    .input-cari .button-primary{
+        height: 58px;
+        width: 30%;
+        font-size: 20px;
+        border-radius: 0 0 10px 0;
+    }
+
+    .input-cari .form-control{
+        height: 58px !important;
+    }
+
+    .form-control {
+        width: 100%;
+        height: 60px !important;
+        background: #C4C4C4;
+        border-radius: 0;
+        }
+
+
+        .button-contact{
+            width: 100%;
+            height: 60px;
+            color: #fff;
+            background: #00985B;
+            font-weight: 600;
+            font-size: 14px;
+            line-height: 36px;
+        }
+
+
+        footer a{
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 30px;
+            color: #FFFFFF;
+            text-decoration: none;
+        }
+
+        .copyright{
+            bottom: 1%;
+            color: #fff;
+            font-size: 14px;
+        }
+
+        .sub-copyright{
+            margin-bottom: 5px;
+        }
+
+
+}
+
+@media screen and (max-width: 350px) {
+    
+}
